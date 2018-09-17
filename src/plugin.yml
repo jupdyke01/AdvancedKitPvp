@@ -1,0 +1,12 @@
+name: AdvancedKitPvp
+main: me.jupdyke01.AdvancedKitPvp.Main
+version: 1.0
+author: Jupdyke01
+
+commands:
+  pvpkit:
+    usage: /pvpkit
+    description: Test command
+  pvpkits:
+    usage: /pvpkits
+    description: Pvp Kits
